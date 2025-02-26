@@ -14,7 +14,7 @@ A dynamic, responsive table built with **TypeScript, Next.js, and API integratio
 - **Fetch API** (Data fetching)  
 
 ## 🚀 Live Demo  
-🔗 [https://dynamic-user-table.vercel.app/](#)  
+🔗 [https://dynamic-user-table.vercel.app/] 
 
 ## 📌 Installation  
 ```bash
