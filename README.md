@@ -49,9 +49,6 @@ start index.html  # (For Windows)
 Desktop View
 
 
-Mobile View
-![user-data](https://github.com/user-attachments/assets/277bb111-bb15-4bac-a2e0-5325e99b3523)
-
 
 🤝 Contribution
 Want to contribute? Follow these steps:
