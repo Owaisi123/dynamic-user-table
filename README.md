@@ -27,7 +27,7 @@ A **dynamic and responsive** user table built with **HTML, CSS, JavaScript, and 
 ---
 
 ## 🚀 Live Demo  
-🔗 **[Live Project](https://dynamic-user-table.vercel.app/)**  
+🔗 **[Live Project](https://dynamic-user-table.vercel.app/)
 
 ---
 
